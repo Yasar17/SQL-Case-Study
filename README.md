@@ -6,3 +6,10 @@ This project aims to analyze a museum database by leveraging SQL queries for dat
 
 # Dataset
 The dataset used for this case study was obtained from Kaggle and includes various attributes related to museums.
+
+# Setup
+
+# Prerequisites
+Python 3.x
+PostgreSQL
+psycopg2 library
