@@ -15,7 +15,8 @@ Python 3.x
 PostgreSQL
 
 psycopg2 library
-#Data Upload
+
+# Data Upload
 The data from Kaggle is uploaded to the PostgreSQL database using a Python script. Follow the steps below to set up your database and upload the data:
 
 Download the dataset from Kaggle.
